@@ -1,1 +1,3 @@
-# MaRS-Task1
+Task 1 taught me alot of things. The first included working with linux's ubuntu. While we did learn very basics during the very first programming classes, going deep into was kind of interesting. Was initially planning on dual booting instead, but the worry of losing data made me use the ubuntu terminal for windows. 
+learnt various diffrent commands such as mkdir touch mv grep top date etc. While I still havent fully understood to use github, I understood it basics, and want to know more. Which is why I had to use manualy upload my files because I could not get the git push git commit commands to work through the terminal.
+Learned to work with VS code. It has so many tools. The "run" button was not initially working at first. Then understood that it was using an extension which did not work. Figurred out what the difference between the output tab was and terminal, because initially i was using the output tab to check for my outputs.
